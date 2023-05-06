@@ -25,4 +25,4 @@
 
 ![Stats1](https://github-readme-stats.vercel.app/api?username=apulhpa&theme=blue-green)
 
-![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=apulhpa&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apulhpa&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
