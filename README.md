@@ -26,3 +26,8 @@
 ![Stats1](https://github-readme-stats.vercel.app/api?username=apulhpa&theme=blue-green)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apulhpa&layout=compact&text_color=daf7dc&bg_color=151515)
+
+
+### Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1077315116065882172)](https://discord.com/users/1077315116065882172)
